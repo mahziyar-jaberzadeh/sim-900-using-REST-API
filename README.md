@@ -12,4 +12,4 @@ install the zip file library in your arduino directory
 
 SECOND: 
 
-set the proper software serial pins in SIM900.CPP because (YES IT WORKS WITH ANY ARDUINO !!!)
+set the proper software serial pins in SIM900.CPP because (YES IT WORKS WITH ANY ARDUINO INCLUDING MEGA 2560!!!)
